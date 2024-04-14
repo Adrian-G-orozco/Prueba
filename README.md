@@ -1,2 +1,1 @@
-# Prueba
-Practicando
+este proyecto es una prueba
